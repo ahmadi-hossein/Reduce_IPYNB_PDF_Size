@@ -1,0 +1,4 @@
+streamlit
+nbformat
+PyMuPDF
+Pillow
