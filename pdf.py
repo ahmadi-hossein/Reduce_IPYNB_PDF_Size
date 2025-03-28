@@ -58,7 +58,7 @@ def compress_pdf(uploaded_pdf):
     return pdf_output
 
 # Streamlit app layout
-st.title("PDF File Size Reducer")
+st.title("PDF File Size Reducer by Hossein Ahmadi")
 st.write("Upload a PDF file to reduce its size by compressing images and optimizing the PDF structure.")
 
 # File uploader for PDF
